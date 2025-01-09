@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="title_listConcertos">Concerts</string>
+    <string name="title_listFestivais">Festivals</string>
+    <string name="title_listBandas">Bands</string>
+    <string name="title_UserInfo">User</string>
+    <string name="text_entrar">Login</string>
+</resources>

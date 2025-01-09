@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hint_password">Palavra-passe</string>
+    <string name="text_entrar">Entrar</string>
+    <string name="title_listConcertos">Concertos</string>
+    <string name="title_listFestivais">Festivais</string>
+    <string name="title_listBandas">Bandas</string>
+    <string name="title_UserInfo">Utilizador</string>
+    <string name="hint_email">Email</string>
+</resources>
